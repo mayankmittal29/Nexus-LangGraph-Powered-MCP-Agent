@@ -1,4 +1,4 @@
-# 🤖 LangGraph MCP Chatbot
+# 🤖 Nexus: LangGraph-Powered MCP Agent
 
 A tool-using, multi-turn chatbot built with **LangGraph**, **Streamlit**, and the **Model Context Protocol (MCP)**. It can search the web, fetch live stock prices, call remote/local MCP tool servers, stream responses token-by-token, and persist every conversation to disk so you can pick up any chat thread later.
 
